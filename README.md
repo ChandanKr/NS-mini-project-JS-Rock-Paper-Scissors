@@ -3,7 +3,7 @@
   
 # Mini Project on JS - Rock_Paper_Scissors
 
-## Table of Contents
+## **Table of Contents:**
 
 1. [Live Website Link](#live-website-link)
 2. [Project Description](#project-description)
@@ -20,7 +20,7 @@
 13. [Special Thanks](#special-thanks)
 14. [Acknowledgements](#acknowledgements)
 
-## **Live Website Link**
+## **Live Website Link:**
 => Link -->[ Rock-Paper-Scissors](https://rock-paper-scissors-by-chandan.netlify.app/)
 
 **[⬆ back to top](#table-of-contents)**
