@@ -1,7 +1,7 @@
 # Hi, I'm Chandan Kumar ! 👋
 
   
-# Mini Project on JS - Rock_Paper_Scissors
+# **Title: Rock_Paper_Scissors (JS Mini Project)**
 
 ## **Table of Contents:**
 
