@@ -94,7 +94,11 @@ const proudOfThisFunc = () => {
 
 ## **Screenshot:**
 
+<<<<<<< HEAD
 ![](./Screenshots/HomeLanding.png)
+=======
+![](./screenshot.jpg)
+>>>>>>> 9c221bf1e9faf37b580c0e75d3140619e1395751
   
 ## **Author:**
 
