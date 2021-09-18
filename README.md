@@ -93,7 +93,7 @@ const proudOfThisFunc = () => {
 
 **[⬆ back to top](#table-of-contents)**
 
-## **Screenshot:**
+## **Screenshots:**
 
 - **Home Landing:**
 ![](./Screenshots/HomeLanding.png)
