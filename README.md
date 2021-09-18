@@ -11,14 +11,15 @@
 4. [Built With](#built-with)
 5. [Colors Used](#colors-used)
 6. [Fonts Used](#fonts-used)
-7. [Author](#author)
-8. [Deployment And Hosting](#deployment-and-hosting)
-9. [Optimizations And Future Scope](#optimizations-and-future-scope)
-10. [Feedbacks or Suggestions](#feedbacks-or-suggestions)
-11. [Contact Me](#contact-me)
-12. [License](#license)
-13. [Special Thanks](#special-thanks)
-14. [Acknowledgements](#acknowledgements)
+7. [Screenshots](#screenshots)
+8. [Author](#author)
+9. [Deployment And Hosting](#deployment-and-hosting)
+10. [Optimizations And Future Scope](#optimizations-and-future-scope)
+11. [Feedbacks or Suggestions](#feedbacks-or-suggestions)
+12. [Contact Me](#contact-me)
+13. [License](#license)
+14. [Special Thanks](#special-thanks)
+15. [Acknowledgements](#acknowledgements)
 
 ## **Live Website Link:**
 => Link -->[ Rock-Paper-Scissors](https://rock-paper-scissors-by-chandan.netlify.app/)
@@ -94,11 +95,16 @@ const proudOfThisFunc = () => {
 
 ## **Screenshot:**
 
-<<<<<<< HEAD
+- **Home Landing:**
 ![](./Screenshots/HomeLanding.png)
-=======
-![](./screenshot.jpg)
->>>>>>> 9c221bf1e9faf37b580c0e75d3140619e1395751
+
+- **Winner and Score Section:**
+![](./Screenshots/WinnerAndScore.png)
+
+- **Rules Section:**
+![](./Screenshots/Rules.png)
+
+**[⬆ back to top](#table-of-contents)**
   
 ## **Author:**
 
