@@ -91,6 +91,10 @@ const proudOfThisFunc = () => {
 - Weights: 600, 700
 
 **[⬆ back to top](#table-of-contents)**
+
+## **Screenshot:**
+
+![](./screenshot.jpg)
   
 ## **Author:**
 
