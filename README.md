@@ -102,7 +102,7 @@ const proudOfThisFunc = () => {
 ![](./Screenshots/score.png)
 
 - **Rules Section:**
-![](./Screenshots/rules.png)
+![](./Screenshots/Rules.png)
 
 **[⬆ back to top](#table-of-contents)**
   
