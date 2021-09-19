@@ -54,17 +54,20 @@ function checkWinner() {
         //draw
         winner.innerText = 'draw';
         winner.style.color = 'whitesmoke';
+        reset.style.color = 'hsl(229, 25%, 31%)';
     }
     else if (userChoice === 'paper' && computerChoice === 'rock' || userChoice === 'rock' && computerChoice === 'scissors' || userChoice === 'scissors' && computerChoice === 'paper') {
         //user wins
         winner.innerText = 'you win (+1)';
         winner.style.color = 'yellowgreen';
+        reset.style.color = 'green';
         updateScore(1);
     }
     else {
         //computer wins
         winner.innerText = 'you lost (-1)';
         winner.style.color = 'red';
+        reset.style.color = 'red';
         updateScore(-1)
     }
 
@@ -77,6 +80,16 @@ function updateScore(value) {
     score += value;
 
     scoreEl.innerText = score;
+
+    if(scoreEl.innerText > 0){
+        scoreEl.style.color = 'darkgreen';
+    }
+    else if(scoreEl.innerText < 0){
+        scoreEl.style.color = 'red';
+    }
+    else{
+        scoreEl.style.color = 'hsl(228, 24%, 57%)';
+    }
 }
 
 function pickRandomChoice() {
