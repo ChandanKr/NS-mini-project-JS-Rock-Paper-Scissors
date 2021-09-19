@@ -55,12 +55,16 @@ function checkWinner() {
         winner.innerText = 'draw';
         winner.style.color = 'whitesmoke';
         reset.style.color = 'hsl(229, 25%, 31%)';
+        userSelect.style.boxShadow ='0 0 25px #fff, 0 0 45px #fff';
+        computerSelect.style.boxShadow ='0 0 25px #fff, 0 0 45px #fff';
     }
     else if (userChoice === 'paper' && computerChoice === 'rock' || userChoice === 'rock' && computerChoice === 'scissors' || userChoice === 'scissors' && computerChoice === 'paper') {
         //user wins
         winner.innerText = 'you win (+1)';
         winner.style.color = 'yellowgreen';
         reset.style.color = 'green';
+        userSelect.style.boxShadow ='0 0 25px #fff, 0 0 45px green';
+        computerSelect.style.boxShadow ='none';
         updateScore(1);
     }
     else {
@@ -68,6 +72,8 @@ function checkWinner() {
         winner.innerText = 'you lost (-1)';
         winner.style.color = 'red';
         reset.style.color = 'red';
+        computerSelect.style.boxShadow ='0 0 25px #fff, 0 0 45px red';
+        userSelect.style.boxShadow ='none';
         updateScore(-1)
     }
 
