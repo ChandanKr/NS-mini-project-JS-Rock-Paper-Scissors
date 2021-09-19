@@ -56,7 +56,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 }
 ```
 
-- **JavaScripts**
+- **JavaScript**
 ```js
 const proudOfThisFunc = () => {
   console.log('🎉')
