@@ -101,6 +101,8 @@ main::before{
     margin: 0 25px;
     height: 150px;
     width: 150px;
+    transition: box-shadow 2s, transform 0.4s;
+    transition-timing-function: ease-in-out;
 }
 
 
