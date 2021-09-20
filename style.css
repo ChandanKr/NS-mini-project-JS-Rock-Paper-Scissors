@@ -186,6 +186,9 @@ main::before{
     padding: 10px 25px;
     letter-spacing: 2.5px;
     text-transform: uppercase;
+    transition: box-shadow 0.2s, transform 0.4s;
+    transition-timing-function: ease-in-out;
+
 }
 .btn:hover{
     cursor: pointer;
@@ -193,6 +196,7 @@ main::before{
     color: black;
     box-shadow: 0 0 5px red, 0 0 10px red, 0 0 15px red;
     font-weight: bold;
+    transform: scale(1.3);
 }
 
 .selection{
