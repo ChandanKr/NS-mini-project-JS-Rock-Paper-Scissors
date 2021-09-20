@@ -32,7 +32,7 @@
 ***[⬆ back to top](#table-of-contents)***
 
 ## **Rules**
->- If the player wins, they gain 1 point. If the computer wins, the player loses one point.
+>If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
 - #### Originality
 
@@ -66,23 +66,23 @@ const proudOfThisFunc = () => {
 ***[⬆ back to top](#table-of-contents)***
 
 ## **Colors Used:**
-#### => Primary:
-
-- Scissors Gradient: hsl(39, 89%, 49%) to hsl(40, 84%, 53%)
-- Paper Gradient: hsl(230, 89%, 62%) to hsl(230, 89%, 65%)
-- Rock Gradient: hsl(349, 71%, 52%) to hsl(349, 70%, 56%)
-- Lizard Gradient: hsl(261, 73%, 60%) to hsl(261, 72%, 63%)
-- Cyan: hsl(189, 59%, 53%) to hsl(189, 58%, 57%)
-
-#### => Neutral:
-
-- Dark Text: hsl(229, 25%, 31%)
-- Score Text: hsl(229, 64%, 46%)
-- Header Outline: hsl(217, 16%, 45%)
-
-#### => Background:
-
-- Radial Gradient: hsl(214, 47%, 23%) to hsl(237, 49%, 15%)
+> #### Primary:
+>
+>> - Scissors Gradient: hsl(39, 89%, 49%) to hsl(40, 84%, 53%)
+>> - Paper Gradient: hsl(230, 89%, 62%) to hsl(230, 89%, 65%)
+>> - Rock Gradient: hsl(349, 71%, 52%) to hsl(349, 70%, 56%)
+>> - Lizard Gradient: hsl(261, 73%, 60%) to hsl(261, 72%, 63%)
+>> - Cyan: hsl(189, 59%, 53%) to hsl(189, 58%, 57%)
+>
+> #### Neutral:
+>
+>> - Dark Text: hsl(229, 25%, 31%)
+>> - Score Text: hsl(229, 64%, 46%)
+>> - Header Outline: hsl(217, 16%, 45%)
+>
+> #### Background:
+>
+>> - Radial Gradient: hsl(214, 47%, 23%) to hsl(237, 49%, 15%)
 
 ***[⬆ back to top](#table-of-contents)***
 
