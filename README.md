@@ -27,18 +27,18 @@
 ***[⬆ back to top](#table-of-contents)***
 
 ## **Project Description:**
-=> This is my second mini project based on HTML, CSS and JavaScript in which their is one ***Home Landing*** page where user can choose between ***Rock, Paper and Scissor***, the other section is ***Winner Selection*** section where the choices of user and computer is visible with the winner declaration and the score update too. This Score update section can be seen in Home Landing page too. Their is a button which shows the ***Rules*** of the game. 
+> This is my second mini project based on HTML, CSS and JavaScript in which their is one ***Home Landing*** page where user can choose between ***Rock, Paper and Scissor***, the other section is ***Winner Selection*** section where the choices of user and computer is visible with the winner declaration and the score update too. This Score update section can be seen in Home Landing page too. Their is a button which shows the ***Rules*** of the game. 
 
 ***[⬆ back to top](#table-of-contents)***
 
 ## **Rules**
-If the player wins, they gain 1 point. If the computer wins, the player loses one point.
+>- If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
-#### => Originality
+- #### Originality
 
-- Paper beats Rock
-- Rock beats Scissors
-- Scissors beats Paper
+  - Paper beats Rock
+  - Rock beats Scissors
+  - Scissors beats Paper
 
 ***[⬆ back to top](#table-of-contents)***
   
@@ -95,13 +95,16 @@ const proudOfThisFunc = () => {
 
 ## **Screenshots:**
 
-- **Home Landing:**
+> - **Home Landing:**
+
 ![](./Screenshots/HomeLanding.png)
 
-- **Winner and Score Section:**
+> - **Winner and Score Section:**
+
 ![](./Screenshots/score.png)
 
-- **Rules Section:**
+> - **Rules Section:**
+
 ![](./Screenshots/Rules.png)
 
 ***[⬆ back to top](#table-of-contents)***
