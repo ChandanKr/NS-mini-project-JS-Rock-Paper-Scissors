@@ -24,12 +24,12 @@
 ## **Live Website Link:**
 => Link -->[ Rock-Paper-Scissors](https://rock-paper-scissors-by-chandan.netlify.app/)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Project Description:**
-=> This is my second mini project based on HTML, CSS and JavaScript in which their is one **Home Landing** page where user can choose between **Rock, Paper and Scissor**, the other section is **Winner Selection** section where the choices of user and computer is visible with the winner declaration and the score update too. This Score update section can be seen in Home Landing page too. Their is a button which shows the **Rules** of the game. 
+=> This is my second mini project based on HTML, CSS and JavaScript in which their is one ***Home Landing*** page where user can choose between ***Rock, Paper and Scissor***, the other section is ***Winner Selection*** section where the choices of user and computer is visible with the winner declaration and the score update too. This Score update section can be seen in Home Landing page too. Their is a button which shows the ***Rules*** of the game. 
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Rules**
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
@@ -40,7 +40,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Rock beats Scissors
 - Scissors beats Paper
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
   
 ## **Built With:**
 
@@ -63,7 +63,7 @@ const proudOfThisFunc = () => {
 }
 ```
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Colors Used:**
 #### => Primary:
@@ -84,14 +84,14 @@ const proudOfThisFunc = () => {
 
 - Radial Gradient: hsl(214, 47%, 23%) to hsl(237, 49%, 15%)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 
 ## **Fonts Used:**
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 600, 700
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Screenshots:**
 
@@ -104,53 +104,53 @@ const proudOfThisFunc = () => {
 - **Rules Section:**
 ![](./Screenshots/Rules.png)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
   
 ## **Author:**
 
 - [Chandan Kumar](https://github.com/IronMan2606)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
   
 ## **Deployment And Hosting:**
 
 => To deploy this project run, I have used [Netlify.com](https://www.netlify.com/).
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
   
 ## **Optimizations And Future Scope**
 
 => I would like to add some more features like "Best of Three" concept, Dark theme toogling, etc. and I will work on more smoothness and interaction of the elements in future for sure.
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
   
 ## **Feedbacks or Suggestions:**
 
 --> If you have any feedback or any suggestion regarding this project, please reach out to me at krchandan0626@gmail.com
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
   
 ## **Contact Me:**
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-794a42133/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chandan_2606)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
   
 ## **License:**
 
 --> [MIT](https://choosealicense.com/licenses/mit/)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Special Thanks:**
 - [Mentor - Ankeet Kumar Hanny](https://www.linkedin.com/in/ankeethanny007/)
 - [Newton School](https://www.newtonschool.co/)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
 
 ## **Acknowledgements:**
 - [Fronend Mentor](https://www.frontendmentor.io/)
@@ -158,5 +158,5 @@ const proudOfThisFunc = () => {
 - [W3School](https://www.w3schools.com/)
 - [YouTube](https://www.youtube.com/)
 
-**[⬆ back to top](#table-of-contents)**
+***[⬆ back to top](#table-of-contents)***
   
