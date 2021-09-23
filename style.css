@@ -290,6 +290,12 @@ main::before{
     }   
 }
 
+@media (max-width: 500px){
+    .btn-rules{
+        visibility: hidden;
+    } 
+}
+
 @media (max-width: 375px){
     html{
         font-size: 50%;
