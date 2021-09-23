@@ -304,6 +304,9 @@ main::before{
     .selection{
         width: 50rem;
     }  
+    .btn-rules{
+        visibility: hidden;
+    }
 }
 
 @media (max-width: 320px){
@@ -320,6 +323,9 @@ main::before{
     .selection{
         width: 50rem;
     } 
+    .btn-rules{
+        visibility: hidden;
+    }
 }
 @media (max-width: 290px){
     html{
@@ -335,5 +341,8 @@ main::before{
     .selection{
         width: 50rem;
     } 
+    .btn-rules{
+        visibility: hidden;
+    }
 }
 
